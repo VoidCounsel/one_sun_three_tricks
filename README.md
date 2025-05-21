@@ -1,2 +1,2 @@
-# one_sun_three_tricks
+# One Sun, Three Tricks
 An attempt to explain the physics underpinning the Nimitz enigma.
